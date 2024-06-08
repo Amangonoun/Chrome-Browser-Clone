@@ -10,6 +10,7 @@ class MainApp(QMainWindow):
     """ the main class of our app """
 
     def __init__(self):
+        
         """ init things here """
         super().__init__()  # parent class initializer
 
